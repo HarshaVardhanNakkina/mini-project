@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "username": "harsha",
+      "password": "password",
+      "email": "test@test.com",
+      "publickey": ""
+    },
+    {
+      "username": "john",
+      "password": "password",
+      "email": "john@doe.com",
+      "publickey": "-----BEGIN PUBLIC KEY-----\r\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8iLpBGoNZi1vXF9oIJWL\r\nfd633/xrhMD50yV3ZWxRE8KyriyncNpvEtiDR5sNIYFCcTDFZFODS1d4sepFpp34\r\nwhSx3rUYbd3+ep9rBSyDrI867SCylVSxjN2NNo7UGvMK5AwywQ8vFXpp90DIVFy9\r\nj7i7cLwtbjeVtrW4IZuraqqNbQeuw1bcf0gpsYf+7Z8cQGtKTO7u4SJkoGMxG2HS\r\npQ8qUjD/4zg7DcfgeNvZCLbUHIBILwYco7mdCRr8+HAiFykvxgPpFWiCNI5DphxS\r\nObwynMtELqdhMGxGIn+r9Jk80IFKnlLd4OmFDVTGbPH/uDCPA7x52HuayiPx0ys+\r\n4wIDAQAB\r\n-----END PUBLIC KEY-----\r\n"
+    },
+    {
+      "username": "bob",
+      "password": "password",
+      "email": "bob@bob.com",
+      "publickey": ""
+    }
+  ],
+  "server": {
+    "privatekey": "-----BEGIN RSA PRIVATE KEY-----\r\nMIIEowIBAAKCAQEAokB8AC/tibESlHS605BzCLYU903PZi7w65poPSrs9KL5z5Gk\r\nSz/LUzbxplc05tPcQme6AO/p8WFhcvp9+TK/vU5voPG5ER1NZ6QyunP96wXQQYdK\r\nfFl5kB+MfZUbrTPtfP9l06lUS4cI2YT9Eh7sh/VXMG5mpBAnO3tPevpYaDH4qZoC\r\nR1V3ncQF8BFK+pUWrjHd2ZFer5wZlE4HOs+0KNN8weW9tNMg/CR73dvesII8liLO\r\ntdEb8ggobQF/QrOLlC/UC4Tk8qlSqFoNkdCcPtbtlobR0pSMGDAVnCds8WJz/MiV\r\nozVbOsBM8XpYtYYSJs9x4dQUQM3gaiTftIgnxQIDAQABAoIBAHcCw7HDdgHEX3OD\r\nN7KNRsOCA1juuw0hq1e1l3YecVZz4LbvBkqnzXUJXTD80HHrvqj6uoWLdNa37inP\r\nMO3D2r55tQmhpHS4QJmf6BG5mOt2BS67lNgnLTKY4Y0P/RALgcxo7YDWuFz5/HTI\r\nxnQvOKH1RHHi2OjIbG6F4WO8E3LA4Xe3YLqmkqHJeeWu4J+PT3ABaTFHh0gLT8gS\r\nHQg44ckHyvP6Vv/tFEynpRPtZuxtO856fWdBXN3BPZSbjVs2jS/wy51dTaq2b2HS\r\n3vn3BqIiVYuttQprAbnPGi3eLFPb1Q+9Lt8uPgS77k+nleqj4DZFRygMOrSlZQmQ\r\nqixPJwECgYEA1NEhtzWk0Q1JMwnaoe8JFU7lRG+CzopiPNofF6V15VaBdLZPRWqv\r\noR9i0veF7e2ZYzv2LDlduh81GfPElVArvzVj8v4aqSEtnwepSP0Dqsc/FKYSIl4H\r\nwsIsX0uWTK8KAe82rhXAunlHYv4M3J6wuziacBb1XAL1CzK25oTNwEECgYEAwyy6\r\n5tPwlMv27LNEHbqVl1iYY95UPQRvHMTozI+45jIJf7GJv1s9AHqU/cNfHJiackjv\r\nLJvIF/AB4wYkuyzW4RQQeoq2dkqt7PBaRznpNoAM1rfvdb4dlFv9loQ+RYKz6SCN\r\ny5pF+dRXNtIbWj1IxQXa1CrkKIYv/bCxGiaxxoUCgYEAyvfJ2BnpXxf0wCCdy+NW\r\nHmRodKSFdMa2eqLtFHhRwLCINu/JGsNtTZXJgrtfmFQK/oGpfvQXV/N7iYzb6CvW\r\nDT62XIHMm5FxGUMNSPdGEBKHLwJUOULE1BKsjxZf+jLWsJGc7NsCPNZ+JwN08NTI\r\naUbKxCyhRWfsnQl5NtFiCgECgYA04P2SZIGeDtTLtJYT5+V3p81B4Y65KWZhSQg5\r\nxAa4d34TVqqXacTRSGTti+1M9huCMzh5wYso0SHxvExfWfqt6J2+Va6xxfHxa/1J\r\npusElRTlZ9g88lFZTMMb8KBefNb5ppREQXwL//fRJoO6ozgACWIMccJ3KEQAW8rf\r\n5vPrcQKBgEdi5ibOGfIrlD/4vpVhuWZIMJGtqh+c3jSf2pFFCjUJlkGaNuXrHkmx\r\nWqEvi0FfyTaxz78drS7WFQrqaAPpAnT2cWDeOUb5RJvWxWlHZktvNy84P4DtennC\r\nrfrxLY63hf8MCkuqABor3r4R6QMl0H2+m5Zv4tuvp4BwKF6VXdrW\r\n-----END RSA PRIVATE KEY-----\r\n",
+    "publickey": "-----BEGIN PUBLIC KEY-----\r\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAokB8AC/tibESlHS605Bz\r\nCLYU903PZi7w65poPSrs9KL5z5GkSz/LUzbxplc05tPcQme6AO/p8WFhcvp9+TK/\r\nvU5voPG5ER1NZ6QyunP96wXQQYdKfFl5kB+MfZUbrTPtfP9l06lUS4cI2YT9Eh7s\r\nh/VXMG5mpBAnO3tPevpYaDH4qZoCR1V3ncQF8BFK+pUWrjHd2ZFer5wZlE4HOs+0\r\nKNN8weW9tNMg/CR73dvesII8liLOtdEb8ggobQF/QrOLlC/UC4Tk8qlSqFoNkdCc\r\nPtbtlobR0pSMGDAVnCds8WJz/MiVozVbOsBM8XpYtYYSJs9x4dQUQM3gaiTftIgn\r\nxQIDAQAB\r\n-----END PUBLIC KEY-----\r\n",
+    "challenge": "1ea400d1bbf50714a669885fe47f490b9b0f36f0f0647a7b2459cca7fbe01ee2"
+  }
+}
